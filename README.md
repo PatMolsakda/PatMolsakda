@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Pat Molsakda</h1>
+  <h1>MOLSAKDA PAT</h1>
   <p><strong>Software Engineer & Data Practitioner</strong></p>
   <p><em>Bridging the gap between intelligent data systems, high-performance mobile apps, and automated cloud infrastructure.</em></p>
 
